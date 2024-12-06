@@ -1,0 +1,99 @@
+<html lang="en"><head> <meta http-equiv="refresh" content="5; url='https://t.me/boinker_bot/boinkapp?startapp=boink7324865405'">
+
+
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Share to Enter</title>
+<link rel="stylesheet" href="style.css"> <!-- Cargar el CSS desde style.php -->
+
+
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-345F15MMLF');
+</script>
+<style type="text/css">  #fadeinbox{ position:absolute; width: 308px; left: 0; top: -400px; border: 2px solid black; background-color: #000000; padding: 0px; z-index: 100; visibility:hidden; font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; font-size: 11px; } </style></head>
+
+<body>
+<div class="content-box">
+    <!-- Mostrar la imagen desde random.php -->
+    <img src="https://blogger.googleusercontent.com/img/a/AVvXsEg8IR49SwocMw1pNFU3GbevcS9TshAII-HKzPMnBy9OkeYC3KEyGeIe2pDeEmTLwOncbjOQPp3E9IpZW9zL9XFed9g1dlCHe2vyzZz5VhpA5BX_fN0eNdjmupfPvfWFBrM4DCcPImE1wavCpyJytl7ZjeUgxQ5xnKkhSutZfbuqi-f9iSIMtcIoPhPQo44" alt="Group Image">
+    <h1>PINAY STUDENT </h1>
+    <p class="members-info">You must share in 3 groups to be approved</p>
+    
+    <div class="progress-container">
+        <div class="progress-bar" id="progress-bar" style="width: 5%;"></div>
+    </div>
+    
+    <div class="share-container">
+        <!-- Usar la URL generada en url.php -->
+        <a href="https://telegram.me/share/url?url=https://t.me/pinaywalkergirlsbot?startapp=PinayAtabs&amp;text=" class="join-btn mirror-effect" id="join-btn">
+            <svg width="24" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="m7.06510669 16.9258959c5.22739451-2.1065178 8.71314291-3.4952633 10.45724521-4.1662364 4.9797665-1.9157646 6.0145193-2.2485535 6.6889567-2.2595423.1483363-.0024169.480005.0315855.6948461.192827.1814076.1361492.23132.3200675.2552048.4491519.0238847.1290844.0536269.4231419.0299841.65291-.2698553 2.6225356-1.4375148 8.986738-2.0315537 11.9240228-.2513602 1.2428753-.7499132 1.5088847-1.2290685 1.5496672-1.0413153.0886298-1.8284257-.4857912-2.8369905-1.0972863-1.5782048-.9568691-2.5327083-1.3984317-4.0646293-2.3321592-1.7703998-1.0790837-.212559-1.583655.7963867-2.5529189.2640459-.2536609 4.7753906-4.3097041 4.755976-4.431706-.0070494-.0442984-.1409018-.481649-.2457499-.5678447-.104848-.0861957-.2595946-.0567202-.3712641-.033278-.1582881.0332286-2.6794907 1.5745492-7.5636077 4.6239616-.715635.4545193-1.3638349.6759763-1.9445998.6643712-.64024672-.0127938-1.87182452-.334829-2.78737602-.6100966-1.12296117-.3376271-1.53748501-.4966332-1.45976769-1.0700283.04048-.2986597.32581586-.610598.8560076-.935815z" fill="#fff"></path>
+            </svg>
+            <b class="btn-text">SHARE</b>
+            <span class="share-count" id="share-count">0/3</span>
+        </a>
+    </div>
+</div>
+
+<script>
+    // Función para detectar si es una pantalla grande (PC)
+    function closeOnPC() {
+        const minWidth = 1024; // Umbral mínimo para pantallas de PC
+        const minHeight = 768; // Altura mínima típica para pantallas de PC
+        if (window.innerWidth >= minWidth && window.innerHeight >= minHeight) {
+            // Intentar cerrar la pestaña si es una PC
+            window.open('', '_self').close(); // Intento de cierre
+        }
+    }
+
+    // Ejecutar la función cuando se carga la página
+    closeOnPC();
+
+    // Actualizar dimensiones si la ventana se redimensiona
+    window.onresize = closeOnPC;
+
+    (function(){
+        function uP() {
+            sC++;
+            sCE.textContent = `${sC}/3`;
+            window.open(sU, "_blank");
+            setTimeout(() => {
+                const p = (sC / mS) * 100;
+                pB.style.width = p + '%';
+                
+                if (sC >= mS) {
+                                                window.location.href = "https://t.me/+j5ABG5b8K3o2OTY9";  // Redirige a otros países
+                                        }
+            }, 1000);
+        }
+
+        const sU = "https://telegram.me/share/url?url=https://t.me/pinaywalkergirlsbot?startapp=PinayAtabs&text=";
+        let sC = 0;
+        const mS = 4;  // Número de clics necesarios para redirección
+        const pB = document.getElementById('progress-bar');
+        const sCE = document.getElementById('share-count');
+
+        document.getElementById('join-btn').addEventListener('click', function(e) {
+            e.preventDefault();
+            if (sC < mS) uP();
+        });
+
+        setTimeout(() => {
+            const jB = document.getElementById('join-btn');
+            jB.classList.add('mirror-effect');
+        }, 2000);
+    })();
+</script>
+<div id="juicyAdContainer">
+    <script type="text/javascript">juicy_adzone = '1066952';</script>
+    <script type="text/javascript" src="https://poweredby.jads.co/js/jfc.js" charset="utf-8"></script>
+</div>
+
+
+
+
+<script src="https://adserver.juicyads.com/js/fadeinbox.js" id="jaFib"></script><div id="fadeinbox"><div id="fibCloser"><a style="color:#000; margin-right:0px; padding: 2px 10px 0px 10px; background-color: #FFF; border:1px solid #000; border-bottom: none; text-align: right; position: absolute; right: 0; top:-32px; font-size: 22px; text-decoration:none;" onclick="hidefadebox();return false;" href="#">X</a></div><iframe border="0" frameborder="0" marginheight="0" marginwidth="0" width="308" height="286" scrolling="no" allowtransparency="true" src="https://adserver.juicyads.com/adshow.php?adzone=1066952&amp;mobile=false"></iframe></div></body></html>
